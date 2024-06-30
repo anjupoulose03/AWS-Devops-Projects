@@ -5,6 +5,7 @@ Welcome to my AWS and DevOps projects repository. This repository contains multi
 ## Table of Contents
 
 1. [Automated AWS Infrastructure Creation and Deployment Using Terraform and Ansible](https://github.com/anjupoulose03/Automated-AWS-Infrastructure-Creation-and-Deployment-Using-Terraform-and-Ansible)
+2. [High Availability PHP Website with MySQL Database on AWS](https://github.com/anjupoulose03/High-Availability-PHP-Website-with-MySQL-Database-on-AWS)
 
 
    
